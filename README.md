@@ -1,3 +1,9 @@
+
+Preview:
+
+![image](https://user-images.githubusercontent.com/15225177/219642062-130cabcd-e76b-4ea3-88ce-3e0c2b09d9fb.png)
+
+*************************************************************************************************
 # AngularTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
